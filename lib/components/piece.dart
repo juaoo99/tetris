@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:tetris/board.dart';
+import 'package:tetris/pages/board.dart';
 
 import 'values.dart';
 
